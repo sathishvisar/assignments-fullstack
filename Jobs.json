@@ -1,0 +1,740 @@
+[{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df50"
+  },
+  "title": "Full Stack Developer - JavaScript",
+  "location": "Delhi",
+  "jobType": "Contract",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "Remote",
+  "relocation": false,
+  "experience": "5+ years",
+  "skills": [
+    "MongoDB",
+    "Node.js",
+    "JavaScript",
+    "React"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a Full Stack Developer - JavaScript, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 21,
+    "max": 32,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434062"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df51"
+  },
+  "title": "iOS & React Native Developer",
+  "location": "Remote",
+  "jobType": "Part Time",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "Hybrid",
+  "relocation": false,
+  "experience": "5+ years",
+  "skills": [
+    "Redux",
+    "React Native",
+    "Objective-C",
+    "Swift"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a iOS & React Native Developer, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 23,
+    "max": 38,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434082"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df52"
+  },
+  "title": "iOS & React Native Developer",
+  "location": "Remote",
+  "jobType": "Full Time",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "In office - WFH flexibility",
+  "relocation": true,
+  "experience": "1+ years",
+  "skills": [
+    "React Native",
+    "Objective-C",
+    "Redux",
+    "Swift"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a iOS & React Native Developer, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 13,
+    "max": 22,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434101"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df53"
+  },
+  "title": "iOS & React Native Developer",
+  "location": "Chennai",
+  "jobType": "Full Time",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "Remote",
+  "relocation": false,
+  "experience": "2+ years",
+  "skills": [
+    "Redux",
+    "Swift",
+    "React Native",
+    "Objective-C"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a iOS & React Native Developer, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 10,
+    "max": 22,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434118"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df54"
+  },
+  "title": "iOS & React Native Developer",
+  "location": "Pune",
+  "jobType": "Part Time",
+  "visaSponsorship": "Available",
+  "remoteWorkPolicy": "In office - WFH flexibility",
+  "relocation": false,
+  "experience": "5+ years",
+  "skills": [
+    "Swift",
+    "Objective-C",
+    "React Native",
+    "Redux"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a iOS & React Native Developer, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 25,
+    "max": 33,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434135"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df55"
+  },
+  "title": "Full Stack Developer - JavaScript",
+  "location": "Mumbai",
+  "jobType": "Contract",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "Remote",
+  "relocation": true,
+  "experience": "1+ years",
+  "skills": [
+    "MongoDB",
+    "Node.js",
+    "React",
+    "JavaScript"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a Full Stack Developer - JavaScript, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 18,
+    "max": 33,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434153"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df56"
+  },
+  "title": "UI/UX Designer",
+  "location": "Remote",
+  "jobType": "Full Time",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "In office - WFH flexibility",
+  "relocation": true,
+  "experience": "2+ years",
+  "skills": [
+    "Adobe XD",
+    "Sketch",
+    "Figma",
+    "User Research"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a UI/UX Designer, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 14,
+    "max": 23,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434169"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df57"
+  },
+  "title": "iOS & React Native Developer",
+  "location": "Hyderabad",
+  "jobType": "Contract",
+  "visaSponsorship": "Available",
+  "remoteWorkPolicy": "Remote",
+  "relocation": true,
+  "experience": "1+ years",
+  "skills": [
+    "Objective-C",
+    "Redux",
+    "Swift",
+    "React Native"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a iOS & React Native Developer, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 12,
+    "max": 23,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434187"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df58"
+  },
+  "title": "iOS & React Native Developer",
+  "location": "Mumbai",
+  "jobType": "Part Time",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "In office - WFH flexibility",
+  "relocation": false,
+  "experience": "3+ years",
+  "skills": [
+    "Objective-C",
+    "Swift",
+    "React Native",
+    "Redux"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a iOS & React Native Developer, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 25,
+    "max": 35,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434203"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df59"
+  },
+  "title": "Full Stack Developer - JavaScript",
+  "location": "Hyderabad",
+  "jobType": "Full Time",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "In office - WFH flexibility",
+  "relocation": false,
+  "experience": "1+ years",
+  "skills": [
+    "MongoDB",
+    "JavaScript",
+    "Node.js",
+    "React"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a Full Stack Developer - JavaScript, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 13,
+    "max": 27,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434223"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df5a"
+  },
+  "title": "UI/UX Designer",
+  "location": "Pune",
+  "jobType": "Full Time",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "Hybrid",
+  "relocation": true,
+  "experience": "2+ years",
+  "skills": [
+    "Figma",
+    "User Research",
+    "Adobe XD",
+    "Sketch"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a UI/UX Designer, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 18,
+    "max": 26,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434241"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df5b"
+  },
+  "title": "Python Developer",
+  "location": "Delhi",
+  "jobType": "Contract",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "Hybrid",
+  "relocation": false,
+  "experience": "5+ years",
+  "skills": [
+    "Flask",
+    "Python",
+    "PostgreSQL",
+    "Django"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a Python Developer, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 11,
+    "max": 25,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434258"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df5c"
+  },
+  "title": "QA Engineer - Manual Testing",
+  "location": "Hyderabad",
+  "jobType": "Contract",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "Hybrid",
+  "relocation": true,
+  "experience": "1+ years",
+  "skills": [
+    "JIRA",
+    "Bugzilla",
+    "TestRail",
+    "Manual Testing"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a QA Engineer - Manual Testing, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 17,
+    "max": 28,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434274"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df5d"
+  },
+  "title": "Full Stack Developer - JavaScript",
+  "location": "Chennai",
+  "jobType": "Contract",
+  "visaSponsorship": "Available",
+  "remoteWorkPolicy": "Remote",
+  "relocation": false,
+  "experience": "5+ years",
+  "skills": [
+    "MongoDB",
+    "JavaScript",
+    "Node.js",
+    "React"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a Full Stack Developer - JavaScript, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 18,
+    "max": 23,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434290"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df5e"
+  },
+  "title": "iOS & React Native Developer",
+  "location": "Hyderabad",
+  "jobType": "Full Time",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "In office - WFH flexibility",
+  "relocation": false,
+  "experience": "2+ years",
+  "skills": [
+    "Redux",
+    "Objective-C",
+    "React Native",
+    "Swift"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a iOS & React Native Developer, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 23,
+    "max": 37,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434308"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df5f"
+  },
+  "title": "QA Engineer - Manual Testing",
+  "location": "Bengaluru",
+  "jobType": "Part Time",
+  "visaSponsorship": "Available",
+  "remoteWorkPolicy": "Remote",
+  "relocation": false,
+  "experience": "2+ years",
+  "skills": [
+    "Bugzilla",
+    "Manual Testing",
+    "JIRA",
+    "TestRail"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a QA Engineer - Manual Testing, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 16,
+    "max": 22,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434326"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df60"
+  },
+  "title": "Dotnet Developer",
+  "location": "Bengaluru",
+  "jobType": "Part Time",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "Hybrid",
+  "relocation": false,
+  "experience": "2+ years",
+  "skills": [
+    "SQL Server",
+    ".NET",
+    "ASP.NET",
+    "C#"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a Dotnet Developer, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 19,
+    "max": 34,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434343"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df61"
+  },
+  "title": "iOS & React Native Developer",
+  "location": "Delhi",
+  "jobType": "Part Time",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "In office - WFH flexibility",
+  "relocation": false,
+  "experience": "2+ years",
+  "skills": [
+    "Objective-C",
+    "Swift",
+    "React Native",
+    "Redux"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a iOS & React Native Developer, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 11,
+    "max": 16,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.434360"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df62"
+  },
+  "title": "WordPress Developer",
+  "location": "Mumbai",
+  "jobType": "Contract",
+  "visaSponsorship": "Not Available",
+  "remoteWorkPolicy": "Hybrid",
+  "relocation": true,
+  "experience": "5+ years",
+  "skills": [
+    "WooCommerce",
+    "PHP",
+    "HTML/CSS",
+    "WordPress"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a WordPress Developer, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 18,
+    "max": 23,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.433865"
+},
+{
+  "_id": {
+    "$oid": "68223cba79e93b518e48df63"
+  },
+  "title": "Java Developer",
+  "location": "Delhi",
+  "jobType": "Full Time",
+  "visaSponsorship": "Available",
+  "remoteWorkPolicy": "Hybrid",
+  "relocation": false,
+  "experience": "2+ years",
+  "skills": [
+    "Java",
+    "MySQL",
+    "Hibernate",
+    "Spring Boot"
+  ],
+  "benefits": [
+    "Competitive salary",
+    "Health Insurance",
+    "Stock Options",
+    "Flexible working hours",
+    "Paid Time Off"
+  ],
+  "description": "As a Java Developer, you'll be responsible for developing scalable and efficient applications. You will collaborate with cross-functional teams to define, design, and ship new features.",
+  "hiringProcess": [
+    "Coding Test",
+    "Telephonic Interview",
+    "Face-to-face Interview"
+  ],
+  "salary": {
+    "min": 20,
+    "max": 29,
+    "currency": "INR"
+  },
+  "createdAt": "2025-05-12T18:15:19.433911"
+}]
